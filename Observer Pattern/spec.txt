@@ -1,0 +1,5 @@
+Suppose you are going to develop a software for facilitating transfer of information
+among the students of your class. Any student of your class can subscribe or
+unsubscribe from the service of the software. Whenever the class representative gets to
+know some information regarding any academic issue, s/he inputs the information to the
+software as a text segment and then this message is emailed to all subscribed students.

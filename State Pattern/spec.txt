@@ -1,0 +1,6 @@
+Consider a vending machine which dispenses soft drinks when a coin is inserted.
+However, this service depends on some factors such as inventory of the machine,
+amount of currency deposited, the ability to make change, the item selected, etc. When
+currency is deposited and a selection is made, a vending machine will either deliver a
+product and no change, deliver a product and change, deliver no product due to
+insufficient currency on deposit, or deliver no product due to inventory depletion.
